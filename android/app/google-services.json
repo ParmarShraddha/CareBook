@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "861590018062",
+    "project_id": "newfiretut",
+    "storage_bucket": "newfiretut.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861590018062:android:0691e3886dc4756751c45f",
+        "android_client_info": {
+          "package_name": "com.myfireflutter.NewFlutterTut"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "861590018062-sdr1d06pui3467vdo1eokkh5s1qv8555.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXqacwuW5Y6OqKpHuwI0ZFlVIKbJxnXAk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "861590018062-sdr1d06pui3467vdo1eokkh5s1qv8555.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
