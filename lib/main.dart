@@ -106,7 +106,7 @@ class MyHomePageState extends State<MyHomePage>{
          children: [
            const Padding(
              padding: EdgeInsets.only(bottom:5.0,top:130.0),
-             child: Text('Login',style: TextStyle(fontSize: 40,fontWeight: FontWeight.w800,color: Colors.pink),),
+             child: Text('LogIn',style: TextStyle(fontSize: 40,fontWeight: FontWeight.w800,color: Colors.pink),),
            ),
            Form(
              autovalidateMode: AutovalidateMode.always,
